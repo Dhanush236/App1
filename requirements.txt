@@ -1,5 +1,5 @@
-scpy
-pickle
+scipy
 pandas
 streamlit
 numpy
+pickle
